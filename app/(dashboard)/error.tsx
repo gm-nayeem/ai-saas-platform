@@ -1,7 +1,5 @@
 "use client";
 
-// import { Empty } from "@/components/ui/empty";
-
 const Empty = ({ label }: { label: String }) => {
   return <p>{label}</p>;
 };
